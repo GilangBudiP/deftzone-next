@@ -15,7 +15,7 @@ function Header() {
         {/* nav */} 
         <div className="flex items-center">
           <nav>
-            <ul className="flex items-center gap-10 font-semibold text-xl text-nav">
+            <ul className="flex items-center gap-9 font-semibold text-xl text-nav">
               <li>
                 <Link href="#" className=" hover:text-blue-500">
                   Home
